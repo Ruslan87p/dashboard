@@ -1,0 +1,11 @@
+.fade.in {
+  display: block;
+  opacity: 1;
+}
+.filter-title {
+  padding-top: 16px;
+}
+.close-btn {
+  position: absolute;
+  right: 0;
+}
